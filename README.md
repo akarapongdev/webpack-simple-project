@@ -1,8 +1,8 @@
-# Joker Provider Views
+# Webpack Simple Project
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
-A view of joker provider based on webpack.
+A simple project based on webpack.
 
 
 ### Installation

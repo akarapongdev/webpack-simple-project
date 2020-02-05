@@ -1,7 +1,7 @@
 {
-  "name": "joker-privoder-views",
+  "name": "webpack-simple-project",
   "version": "1.0.0",
-  "description": "A view of joker provider based on webpack.",
+  "description": "Webpack simple project based on webpack.",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.prod.js  --colors",
     "start": "webpack-dev-server --open --config webpack/webpack.config.dev.js"
